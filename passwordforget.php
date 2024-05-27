@@ -64,7 +64,7 @@ if (isset($_POST['submit'])) {
                 echo "<script language='javascript'>alert('please enter same New Password and Confirm Password');</script>";
             }
     } else {
-        echo "<script language='javascript'>alert('Please enter your Current Password');</script>";
+        echo "<script language='javascript'>alert('Please enter your Current Email');</script>";
     }
 }
 ?>
